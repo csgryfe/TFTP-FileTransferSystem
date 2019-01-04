@@ -1,10 +1,10 @@
 	     ITERATION 5
 -----------------------------------
 	Project Members - Group 12
-	Brandon Ward 	 101038470
-	Caleb Gryfe      101009798
-	Zubaer Ahmed     101001925
-	Birat Dhungana   101002629
+	Brandon Ward 	 
+	Caleb Gryfe      
+	Zubaer Ahmed     
+	Birat Dhungana   
 
 PREP
 ---------------------
